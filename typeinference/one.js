@@ -1,3 +1,4 @@
 "use strict";
+// type inference 
 let username = "Abdul";
-username = 97;
+username = "amaan";

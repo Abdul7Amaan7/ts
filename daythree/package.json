@@ -1,0 +1,12 @@
+{
+  "name": "daythree",
+  "version": "1.0.0",
+  "description": "just practicing ts",
+  "license": "ISC",
+  "author": "abdul",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "tsc && node test.js"
+  }
+}
